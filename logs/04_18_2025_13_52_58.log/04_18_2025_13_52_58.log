@@ -1,0 +1,6 @@
+[2025-04-18 13:52:59,304] 97 werkzeug - WARNING - * Debugger is active!
+[2025-04-18 13:52:59,320] 97 werkzeug - INFO - * Debugger PIN: 862-801-469
+[2025-04-18 13:52:59,339] 97 werkzeug - INFO -127.0.0.1 - - [18/Apr/2025 13:52:59] "GET / HTTP/1.1" 200 -
+[2025-04-18 13:53:09,219] 97 werkzeug - INFO -127.0.0.1 - - [18/Apr/2025 13:53:09] "GET /predict HTTP/1.1" 200 -
+[2025-04-18 13:53:39,121] 66 root - INFO -Dataframe Gathered
+[2025-04-18 13:53:39,298] 97 werkzeug - INFO -127.0.0.1 - - [18/Apr/2025 13:53:39] "POST /predict HTTP/1.1" 200 -
