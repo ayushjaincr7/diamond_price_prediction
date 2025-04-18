@@ -37,8 +37,7 @@ A simple yet powerful web application that predicts the price of a diamond based
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/yourusername/diamond-price-predictor.git
-cd diamond-price-predicto
+git clone (https://github.com/ayushjaincr7/diamond_price_prediction.git)
 ```
 
 ### 2. Create a virtual environment (optional but recommended)
